@@ -21,7 +21,7 @@ const clientes = [
     { nombre: "María López", edad: 70, tickets: 1 },     // Mayor
     // TODO: Agrega 4 clientes más siguiendo esta estructura
     { nombre: "Jaime Altozano", edad: 40, tickets: 5},
-    { nombre: "Edgar Montoya", edad: 33, tickets: 10},
+    { nombre: "Edgar Montoya", edad: 80, tickets: 10},
     { nombre: "Oswaldo Monarca", edad: 29, tickets: 6},
     { nombre: "Johan Valenzuela", edad: 15, tickets: 13},
 
